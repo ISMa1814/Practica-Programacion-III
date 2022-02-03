@@ -1,6 +1,6 @@
 ﻿namespace Ejemplo_1_Programación_3
 {
-    partial class Form1
+    partial class Funciones
     {
         /// <summary>
         ///  Required designer variable.
