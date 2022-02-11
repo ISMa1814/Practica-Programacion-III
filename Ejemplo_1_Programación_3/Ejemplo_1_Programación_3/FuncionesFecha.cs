@@ -50,7 +50,7 @@ namespace Ejemplo_1_Programación_3
 
             if (fechaNacimiento > fechaActual)
             {
-                MessageBox.Show("La fecha de nacimiento es mayor a la feccha actual\nPor Favor intente de nuevo");
+                MessageBox.Show("La fecha de nacimiento es mayor a la fecha actual\nPor Favor intente de nuevo");
                 return 0;
             }
             else
