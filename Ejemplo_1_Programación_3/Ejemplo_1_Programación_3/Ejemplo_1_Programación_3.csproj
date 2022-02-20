@@ -8,4 +8,8 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\ClasesLibreria\ClasesLibreria.csproj" />
+  </ItemGroup>
+
 </Project>
